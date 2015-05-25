@@ -25,6 +25,7 @@
     "AudioToolbox",
     "AVFoundation",
     "CoreTelephony",
+    "CoreLocation",
     "EventKit",
     "EventKitUI",
     "MessageUI",
